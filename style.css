@@ -1,0 +1,30 @@
+body{
+  text-align:center;
+  background-image: linear-gradient(to bottom right, aquamarine, aqua, cyan);
+}
+img{
+  width:200px;
+  height:350px;
+}
+#prt1{
+  color:#1A237E;
+  font-size:20px;
+}
+#prt2{
+  color:#304FFE;
+  font-size:20px;
+}
+.menu{
+    position: absolute;
+    top: 10px;
+    right: 30px;
+}
+.tabs{
+   font-family: 'Lora', serif;
+   color: darkblue;
+}
+.tabs:hover {
+    cursor: pointer;
+    color: aquamarine;
+    background-color: darkturquoise;
+}
